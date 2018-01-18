@@ -3,7 +3,9 @@
 Data, code and results for: "Random measurement error: why worry? An example of cardiovascular risk factors"
 
 Manuscript: "Random measurement error: why worry? An example of cardiovascular risk factors"
+
 Authors:  Timo B Brakenhoff, Maarten van Smeden, Frank LJ Visseren, Rolf HH Groenwold
+
 Corresponding author: TB Brakenhoff; t.brakenhoff@gmail.com
 
 This repository contains two directories:
